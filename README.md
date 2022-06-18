@@ -4,9 +4,9 @@
 - [Azure Monitor Service](https://github.com/earkevin11/Azure-Monitor-Service)<br>
 - [Azure Log Analytics Workspace](https://github.com/earkevin11/Log-Analytics-Workspace)
 - [Azure Policy Service](https://github.com/earkevin11/Policy-Service)
-- [Azure Management Groups]()
-- [Azure Resource Locks]()
-- [Azure Blueprints]()
+- [Azure Management Groups](https://github.com/earkevin11/Management-Groups)
+- [Azure Resource Locks](https://github.com/earkevin11/Resource-Locks)
+- [Azure Blueprints](https://github.com/earkevin11/Azure-Blueprints)
 - [Microsoft Defender - Mitigating security recommendations]()
 - [Microsoft Defender - Onboarding a subscription]()
 - [Microsoft Defender - Azure Security benchmark]()
