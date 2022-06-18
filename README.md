@@ -2,7 +2,7 @@
 
 
 - [Azure Monitor Service](https://github.com/earkevin11/Azure-Monitor-Service)<br>
-- [Azure Log Analytics Workspace]()
+- [Azure Log Analytics Workspace](https://github.com/earkevin11/Log-Analytics-Workspace)
 - [Azure Policy Service]()
 - [Azure Management Groups]()
 - [Azure Resource Locks]()
