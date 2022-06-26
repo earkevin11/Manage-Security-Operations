@@ -14,17 +14,8 @@
 - [Log Analytics Agent]()
 - [Log Analytics Agent]()
 - [Log Analytics Agent]()
-- [Log Analytics Agent]()
-- [Log Analytics Agent]()
-- [Log Analytics Agent]()
-- [Log Analytics Agent]()
-- [Log Analytics Agent]()
 - [Microsoft Sentinel]()
 - [Microsoft Sentinel]()
 - [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
+
 
