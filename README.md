@@ -7,7 +7,7 @@
 - [Azure Management Groups](https://github.com/earkevin11/Management-Groups)
 - [Azure Resource Locks](https://github.com/earkevin11/Resource-Locks)
 - [Azure Blueprints](https://github.com/earkevin11/Azure-Blueprints)
-- [Microsoft Defender - Mitigating security recommendations]()
+- [Microsoft Defender - Mitigating security recommendations](https://github.com/earkevin11/Microsoft-Defender---Mitigating-Security-Recommendations)
 - [Microsoft Defender - Onboarding a subscription]()
 - [Microsoft Defender - Azure Security benchmark]()
 - [Microsoft Defender - Regulatory compliance]()
