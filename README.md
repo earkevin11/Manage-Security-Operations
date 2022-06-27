@@ -9,7 +9,7 @@
 - [Azure Blueprints](https://github.com/earkevin11/Azure-Blueprints)
 - [Microsoft Defender - Mitigating Security Recommendations](https://github.com/earkevin11/Microsoft-Defender---Mitigating-Security-Recommendations)
 - [Microsoft Defender - Just-in-Time Access](https://github.com/earkevin11/Just-In-Time-Access)
-- [Microsoft Defender - Deploying LAW Agent]()
+- [Microsoft Defender - Deploying Log Analytics Agent](https://github.com/earkevin11/Deploying-Log-Analytics-Agent)
 - [Log Analytics Agent]()
 - [Log Analytics Agent]()
 - [Log Analytics Agent]()
