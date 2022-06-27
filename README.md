@@ -7,7 +7,7 @@
 - [Azure Management Groups](https://github.com/earkevin11/Management-Groups)
 - [Azure Resource Locks](https://github.com/earkevin11/Resource-Locks)
 - [Azure Blueprints](https://github.com/earkevin11/Azure-Blueprints)
-- [Microsoft Defender](https://github.com/earkevin11/Microsoft-Defender---Mitigating-Security-Recommendations)
+- [Microsoft Defender - Mitigating Security Recommendations](https://github.com/earkevin11/Microsoft-Defender---Mitigating-Security-Recommendations)
 - [Microsoft Defender - Just-in-Time Access](https://github.com/earkevin11/Just-In-Time-Access)
 - [Microsoft Defender - Deploying LAW Agent]()
 - [Log Analytics Agent]()
