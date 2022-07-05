@@ -12,7 +12,7 @@
 - [Microsoft Defender - Deploying Log Analytics Agent](https://github.com/earkevin11/Deploying-Log-Analytics-Agent)
 - [Microsoft Defender - Custom Initiatives](https://github.com/earkevin11/Custom-Initiatives)
 - [Microsoft Sentinel - Connectors](https://github.com/earkevin11/Microsoft-Sentinel)
-- [Microsoft Sentinel]()
-- [Microsoft Sentinel]()
+- [Log Analtyics]()
+- [Log Analtyics]()
 
 
